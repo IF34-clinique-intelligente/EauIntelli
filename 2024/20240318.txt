@@ -1,0 +1,16 @@
+在偏远地区，医疗资源十分有限，而且往往缺乏经验丰富的医生。因此，为了解决这一问题并改善偏远地区居民的医疗服务，我们提出了一种创新的医疗模式：病人在无人诊所中自助看诊, 让医生通过远程方式对病人进行诊疗。该诊所只需配备必要的1位医师, 和只解决基本常见的感冒和流感
+
+Dans les régions reculées, les ressources médicales sont très limitées et manquent souvent de médecins expérimentés. Pour résoudre ce problème et améliorer les services médicaux pour les résidents des régions éloignées, nous proposons un modèle médical innovant : les patients se consultent eux-mêmes dans des cliniques sans personnel, tandis que les médecins effectuent les diagnostics et les traitements à distance. Cette clinique n'a besoin que d'un médecin et traite uniquement les cas de rhumes et de grippes courants.
+
+1.在诊所中我们会配置基础的医疗检测仪器, 如血压计, 血糖仪, 心电图仪,  红外温度计, 验血机器, 身高体重仪, 尿检仪器, B超. 整个诊疗流程将在两个房间中进行, 一个是自助的无医师的房间,用于自助的常规检测, 一个是配有摄像机的诊疗房间, 会有一个医生远程诊断.. 我们将通过收集到的医疗数据传递给医生, 辅助医生进行诊断. 医生可以通过摄像头(麦克风)观察到患者的病症, 进行在线的交流和诊疗. 
+患者通过医生给予的药方可以在药房自助取药.
+2.当遇到简单的手术, 但是当地的医师手术的经验或者人手不足时, 远方的专家可以通过医疗机械臂来进行操作.
+3.医疗设备的芯片可以检测医疗设备的使用情况.
+
+10个医疗设备装联网芯片, 1个摄像头, 1个手术机械臂
+
+1.Dans la clinique, nous installerons des équipements médicaux de base tels que tensiomètres, glucomètres, électrocardiographes, thermomètres infrarouges, analyseurs sanguins, balance de poids, analyseurs d'urine, et échographes. Le processus de consultation se déroulera dans deux salles : une salle en libre-service sans médecin pour les examens de routine, et une salle de consultation équipée d'une caméra où un médecin effectuera le diagnostic à distance. Les données médicales collectées seront transmises au médecin pour l'aider dans le diagnostic. Le médecin pourra observer les symptômes du patient via la caméra (et le microphone), et mener une consultation et un traitement en ligne. Les patients pourront retirer les médicaments prescrits par le médecin dans la pharmacie en libre-service.
+
+2.En cas d'intervention chirurgicale simple, mais en l'absence de médecins locaux expérimentés ou en raison d'un manque de personnel, un expert distant pourra effectuer l'opération à l'aide d'un bras mécanique médical.
+
+3.Les puces IoT seront installées sur 10 équipements médicaux et il y aura une caméra et un bras mécanique chirurgical.
